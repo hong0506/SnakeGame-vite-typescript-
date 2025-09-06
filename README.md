@@ -1,8 +1,8 @@
 # 🐍 Modern Snake Game
 
 A beautiful, modern Snake game built with TypeScript, HTML5 Canvas, and Vite.
+<img width="1077" height="830" alt="image" src="https://github.com/user-attachments/assets/f4281aed-fc19-4183-9b6b-a05c2a245d4d" />
 
-![Uploading image.png…]()
 
 
 ## ✨ Features
