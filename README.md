@@ -2,6 +2,9 @@
 
 A beautiful, modern Snake game built with TypeScript, HTML5 Canvas, and Vite.
 
+![Uploading image.png…]()
+
+
 ## ✨ Features
 
 - **Modern TypeScript** - Type-safe code with excellent developer experience
